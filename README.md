@@ -31,7 +31,8 @@
   - Ad Response Prediction  
   - Predictive Modeling for Manufacturing Material Strength  
   - Recipe Recommender, System Design  
-  - Customer Satisfaction Classifier  
+  - Customer Satisfaction Classifier
+  - Hotel Staff Size Prediction  
   *Tech:* Python, scikit-learn, XGBoost, Streamlit, pandas, matplotlib
 
 - [**LLM Tutorials & Applications**](https://github.com/bab-git/llm-tutorials)  
