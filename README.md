@@ -20,7 +20,7 @@
   Boosts precision and cuts compute cost. Achieved >75% reduction in retrieval overhead for enterprise-scale QA.  
   *Tech:* LangChain, OpenAI, ChromaDB, Streamlit
 
-- [**Energy Forecasting with SARIMAX & Simulated Exogenous Variables**](https://github.com/bab-git/SDS-CP027-watt-wise/tree/dev_bob/submissions/team/bob-hosseini)  
+- [**Energy Consumption Forecasting with SARIMAX**](https://github.com/bab-git/SDS-CP027-watt-wise/tree/dev_bob/submissions/team/bob-hosseini)  
   Contributed to the SuperDataScience collaborative project on building energy forecasting.  
   Developed a SARIMAX-based pipeline with uncertainty-aware exogenous inputs using simulated random walks.  
   Implemented time-series CV, avoided feature leakage, and extracted interpretable feature relevance insights.  
