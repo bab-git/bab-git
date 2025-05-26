@@ -15,18 +15,24 @@
 
 ## 🚀 Featured Projects
 
+- [**Two-Stage RAG for Document QA**](https://github.com/bab-git/two-stage-conrag)  
+  Scalable RAG pipeline using two-stage retrieval — keyword + semantic search
+  Boosts precision and cuts compute cost. Achieved >75% reduction in retrieval overhead for enterprise-scale QA.  
+  *Tech:* LangChain, OpenAI, ChromaDB, Streamlit
+
+- [**Energy Forecasting with SARIMAX & Simulated Exogenous Variables**](https://github.com/bab-git/SDS-CP027-watt-wise/tree/dev_bob/submissions/team/bob-hosseini)  
+  Contributed to the SuperDataScience collaborative project on building energy forecasting.  
+  Developed a SARIMAX-based pipeline with uncertainty-aware exogenous inputs using simulated random walks.  
+  Implemented time-series CV, avoided feature leakage, and extracted interpretable feature relevance insights.  
+  *Tech:* Python, statsmodels, pandas, SARIMAX, time-series CV, random walk simulation
+
 - [**LLM Agents for Clinical Trials**](https://github.com/bab-git/llm_pharma)  
   Agentic LLM pipeline for automating trial eligibility checks and patient-trial matching.  
   Integrates data analysis, compliance verification, and hallucination grading with human-in-the-loop workflows.  
   *Tech:* LangGraph, OpenAI, Pydantic, Gradio
 
-- [**Two-Stage RAG for Document QA**](https://github.com/bab-git/two-stage-conrag)  
-  Scalable RAG pipeline using two-stage retrieval — keyword + semantic search
-  Boosts precision and cut compute cost. Achieved >75% reduction in retrieval overhead for enterprise-scale QA.  
-  *Tech:* LangChain, OpenAI, ChromaDB, Streamlit
-
 - [**Data Science & ML Mini Tasks**](https://github.com/bab-git/data-science-and-ml-mini-projects)  
-  A curated set of focused, single-notebook projects that demonstrate applied ML and data science problem-solving.  
+  A curated set of focused, single-notebook projects demonstrating applied ML and data science problem-solving.  
   *Topics include:*  
   - Ad Response Prediction  
   - Predictive Modeling for Manufacturing Material Strength  
