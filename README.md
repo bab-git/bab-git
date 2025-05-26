@@ -1,6 +1,7 @@
 # Bob Hosseini  
 **Senior Data Scientist | GenAI & ML Systems | Team Lead**  
-*Designing AI systems that scale and teams that ship.*
+*Designing AI systems that scale and teams that ship.
+*
 
 ---
 
@@ -16,9 +17,9 @@
 ## 🚀 Featured Projects
 
 - [**Two-Stage RAG for Document QA**](https://github.com/bab-git/two-stage-conrag)  
-  Scalable RAG pipeline using two-stage retrieval — keyword + semantic search
+  Scalable RAG pipeline using two-stage retrieval: keyword + semantic search  
   Boosts precision and cuts compute cost. Achieved >75% reduction in retrieval overhead for enterprise-scale QA.  
-  *Tech:* LangChain, OpenAI, ChromaDB, Streamlit
+  *Tech:* LangChain, RAG, Semantic Retrieval, ChromaDB, Streamlit
 
 - [**Energy Consumption Forecasting with SARIMAX**](https://github.com/bab-git/SDS-CP027-watt-wise/tree/dev_bob/submissions/team/bob-hosseini)  
   Contributed to the SuperDataScience collaborative project on building energy forecasting.  
