@@ -20,11 +20,20 @@
   Scalable RAG pipeline using two-stage retrieval: keyword + semantic search  
   Boosts precision and cuts compute cost. Achieved >75% reduction in retrieval overhead for enterprise-scale QA.  
   *Tech:* LangChain, RAG, Semantic Retrieval, ChromaDB, Streamlit
+Here's a refined version emphasizing the **collaborative community aspect** and your role within a team context, which hiring managers and recruiters will appreciate:
+
+- [**Energy Forecasting with SARIMAX (SuperDataScience Community Project)**](https://github.com/bab-git/SDS-CP027-watt-wise/tree/dev_bob/submissions/team/bob-hosseini)   
+  Collaborated with the **SuperDataScience community** in a 5-week sprint to forecast building energy usage based on a synthetic [Kaggle dataset](https://www.kaggle.com/datasets/mrsimple07/energy-consumption-prediction).   
+  Contributed to exploratory analysis, built an interpretable **SARIMAX pipeline** using uncertainty-injected exogenous inputs, and implemented robust time-series cross-validation.   
+  Deployed an [interactive Streamlit app](https://watt-wise-bob-app.streamlit.app/) featuring exploratory data analysis, forecast performance metrics, and feature relevance visualizations.  
+  *Tech:* Python, pandas, statsmodels (SARIMAX), Streamlit, random walk simulations, cross-validation  
 
 - [**Energy Consumption Forecasting with SARIMAX**](https://github.com/bab-git/SDS-CP027-watt-wise/tree/dev_bob/submissions/team/bob-hosseini)  
+  Based on a synthetic [Kaggle dataset](https://www.kaggle.com/datasets/mrsimple07/energy-consumption-prediction).
   Contributed to the SuperDataScience collaborative project on building energy forecasting.  
   Developed a SARIMAX-based pipeline with uncertainty-aware exogenous inputs using simulated random walks.  
-  Implemented time-series CV, avoided feature leakage, and extracted interpretable feature relevance insights.  
+  Implemented time-series CV, avoided feature leakage, and extracted interpretable feature relevance insights.
+  Deployed an [interactive Streamlit app](https://watt-wise-bob-app.streamlit.app/) with forecast horizon selection and feature relevance visualization.
   *Tech:* Python, statsmodels, pandas, SARIMAX, time-series CV, random walk simulation
 
 - [**LLM Agents for Clinical Trials**](https://github.com/bab-git/llm_pharma)  
