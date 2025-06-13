@@ -19,7 +19,7 @@
 - [**Two-Stage RAG for Document QA**](https://github.com/bab-git/two-stage-conrag)  
   Scalable RAG pipeline using two-stage retrieval: keyword + semantic search  
   Boosts precision and cuts compute cost. Achieved >75% reduction in retrieval overhead for enterprise-scale QA.  
-  *Tech:* LangChain, RAG, Semantic Retrieval, ChromaDB, Streamlit
+  *Tech:* RAG, Sentence Transformers, Cross-Encoder Reranker, LangChain, ChromaDB, Docker, Poetry, Streamlit
 
 - [**Energy Forecasting with SARIMAX**](https://github.com/bab-git/SDS-CP027-watt-wise/tree/dev_bob/submissions/team/bob-hosseini)   
   Community project with [**SuperDataScience**](https://community.superdatascience.com/feed) to forecast building energy consumption using a synthetic [Kaggle dataset](https://www.kaggle.com/datasets/mrsimple07/energy-consumption-prediction).   
