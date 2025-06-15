@@ -41,9 +41,9 @@ Includes RAG, tool-using agents, clinical trial retrieval, chatbot workflows, an
 ## 📈 Machine Learning & Data Science Projects
 
 #### [Energy Forecasting with SARIMAX](https://github.com/bab-git/SDS-CP027-watt-wise/tree/dev_bob/submissions/team/bob-hosseini) `🟢 Production Ready - Backend + Frontend`
-Community project with [**SuperDataScience**](https://community.superdatascience.com/feed) to forecast building energy consumption using a synthetic [Kaggle dataset](https://www.kaggle.com/datasets/mrsimple07/energy-consumption-prediction).   
-Built a **SARIMAX pipeline** with **uncertainty-injected exogenous inputs** (random walks) and **time-series CV**.   
-App delivers **EDA**, **forecast accuracy**, and **feature relevance** visualizations. 
+Community project with [**SuperDataScience**](https://community.superdatascience.com/feed) to forecast building energy consumption using a synthetic [Kaggle dataset](https://www.kaggle.com/datasets/mrsimple07/energy-consumption-prediction).  
+Built a **SARIMAX pipeline** with **uncertainty-injected exogenous inputs** (random walks) and **time-series CV**.  
+App delivers **EDA**, **forecast accuracy**, and **feature relevance** visualizations.  
 ▶️ [Live App](https://watt-wise-bob-app.streamlit.app)  
 **Tech:** Python, pandas, statsmodels, SARIMAX, Streamlit
 
@@ -56,7 +56,8 @@ Tasks include:
 - [Material Strength Prediction](https://github.com/bab-git/data-science-and-ml-mini-projects/tree/master/tasks/Predictive_Modeling_for_Material_Strength),
 - [Recipe Recommender](https://github.com/bab-git/data-science-and-ml-mini-projects/tree/master/tasks/Recommendation_System_Food_Recipes),
 - [Customer Satisfaction Classification](https://github.com/bab-git/data-science-and-ml-mini-projects/tree/master/tasks/Customer_Satisfaction_Prediction),
-- [Hotel Staff Size Prediction](https://github.com/bab-git/data-science-and-ml-mini-projects/tree/master/tasks/Hotel_Staff_Size_Estimation_via_Regression).    
+- [Hotel Staff Size Prediction](https://github.com/bab-git/data-science-and-ml-mini-projects/tree/master/tasks/Hotel_Staff_Size_Estimation_via_Regression).  
+
 **Tech:** Python, scikit-learn, XGBoost, Streamlit, pandas, matplotlib
 
 ---
