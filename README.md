@@ -16,22 +16,25 @@
 
 ## 🧠 Generative AI Projects
 
-#### [Two-Stage RAG for Document QA](https://github.com/bab-git/two-stage-conrag) `🟢 Production Ready - Backend + Frontend (App)`
+- [**Two-Stage RAG for Document QA**](https://github.com/bab-git/two-stage-conrag) `🟢 Production Ready - Backend + Frontend (App)`  
 Scalable RAG pipeline using two-stage retrieval: keyword + semantic search  
 Boosts precision and cuts compute cost. Achieved >75% reduction in retrieval overhead for enterprise-scale QA.  
 *Tech:* RAG, Sentence Transformers, Cross-Encoder Reranker, LangChain, ChromaDB, Docker, Poetry, Streamlit
 
 
 
-#### [LLM Agents for Clinical Trials](https://github.com/bab-git/llm_pharma) `🔵 Development Notebooks`
+- [**LLM Agents for Clinical Trials**](https://github.com/bab-git/llm_pharma) `🔵 Development Notebooks`  
 Agentic LLM pipeline automating clinical trial eligibility and patient matching.  
 Includes data analysis, compliance verification, hallucination grading, and human-in-the-loop workflows.  
 **Tech:** LangGraph, OpenAI, Agentic, Tool-calling, Pydantic, Gradio
 
 
 
-#### [LLM Tutorials & Applications](https://github.com/bab-git/llm-tutorials) `🔵 Development Notebooks - Educational`
-A collection of practical LLM architectures and end-to-end notebooks featuring carefully selected case studies across domains like healthcare, customer support, and product search.  
+- [**LLM Tutorials & Applications**](https://github.com/bab-git/llm-tutorials) `🔵 Development Notebooks - Educational`  
+A collection of practical LLM architectures and end-to-end notebooks featuring carefully selected case studies across domains like: 
+  [**healthcare**](https://github.com/bab-git/llm-tutorials/blob/master/notebooks/Fundamentals/QA_chatbot_memory.ipynb),
+  [**customer support**](https://github.com/bab-git/llm-tutorials/blob/master/notebooks/Fundamentals/QA_chatbot.ipynb),
+  [**product search**](https://github.com/bab-git/llm-tutorials/blob/master/notebooks/Retrieval_Augmented_Generation/RAG_evaluation.ipynb).  
 Includes RAG, tool-using agents, clinical trial retrieval, chatbot workflows, and document QA with real-world data sources.  
 **Tech:** OpenAI, RAG, LangChain, ChromaDB, Pinecone, Streamlit
 
@@ -40,24 +43,20 @@ Includes RAG, tool-using agents, clinical trial retrieval, chatbot workflows, an
 
 ## 📈 Machine Learning & Data Science Projects
 
-#### [Energy Forecasting with SARIMAX](https://github.com/bab-git/SDS-CP027-watt-wise/tree/dev_bob/submissions/team/bob-hosseini) `🟢 Production Ready - Backend + Frontend`
+- [**Energy Forecasting with SARIMAX**](https://github.com/bab-git/SDS-CP027-watt-wise/tree/dev_bob/submissions/team/bob-hosseini) `🟢 Production Ready - Backend + Frontend`  
 Community project with [**SuperDataScience**](https://community.superdatascience.com/feed) to forecast building energy consumption using a synthetic [Kaggle dataset](https://www.kaggle.com/datasets/mrsimple07/energy-consumption-prediction).  
 Built a **SARIMAX pipeline** with **uncertainty-injected exogenous inputs** (random walks) and **time-series CV**.  
 App delivers **EDA**, **forecast accuracy**, and **feature relevance** visualizations.  
 ▶️ [Live App](https://watt-wise-bob-app.streamlit.app)  
 **Tech:** Python, pandas, statsmodels, SARIMAX, Streamlit
 
-
-
-#### [Data Science & ML Mini Tasks](https://github.com/bab-git/data-science-and-ml-mini-projects) `🔵 Development Notebooks`
-Single-notebook projects showcasing applied machine learning and data science.  
-Tasks include: 
-- [Ad Response Prediction](https://github.com/bab-git/data-science-and-ml-mini-projects/blob/master/tasks/Predict_Advertisement_Response),  
-- [Material Strength Prediction](https://github.com/bab-git/data-science-and-ml-mini-projects/tree/master/tasks/Predictive_Modeling_for_Material_Strength),
-- [Recipe Recommender](https://github.com/bab-git/data-science-and-ml-mini-projects/tree/master/tasks/Recommendation_System_Food_Recipes),
-- [Customer Satisfaction Classification](https://github.com/bab-git/data-science-and-ml-mini-projects/tree/master/tasks/Customer_Satisfaction_Prediction),
-- [Hotel Staff Size Prediction](https://github.com/bab-git/data-science-and-ml-mini-projects/tree/master/tasks/Hotel_Staff_Size_Estimation_via_Regression).  
-
+- [**Data Science & ML Mini Tasks**](https://github.com/bab-git/data-science-and-ml-mini-projects) `🔵 Development Notebooks`  
+Single-notebook projects showcasing applied machine learning and data science, including: 
+  - [Ad Response Prediction](https://github.com/bab-git/data-science-and-ml-mini-projects/blob/master/tasks/Predict_Advertisement_Response),  
+  - [Material Strength Prediction](https://github.com/bab-git/data-science-and-ml-mini-projects/tree/master/tasks/Predictive_Modeling_for_Material_Strength),
+  - [Recipe Recommender](https://github.com/bab-git/data-science-and-ml-mini-projects/tree/master/tasks/Recommendation_System_Food_Recipes),
+  - [Customer Satisfaction Classification](https://github.com/bab-git/data-science-and-ml-mini-projects/tree/master/tasks/Customer_Satisfaction_Prediction),
+  - [Hotel Staff Size Prediction](https://github.com/bab-git/data-science-and-ml-mini-projects/tree/master/tasks/Hotel_Staff_Size_Estimation_via_Regression).  
 **Tech:** Python, scikit-learn, XGBoost, Streamlit, pandas, matplotlib
 
 ---
