@@ -17,8 +17,9 @@
 ## 🧠 Generative AI Projects
 
 - [**Two-Stage RAG for Document QA**](https://github.com/bab-git/two-stage-conrag) `🟢 Production Ready - Backend + Frontend (App)`  
-Scalable RAG pipeline using two-stage retrieval: keyword + semantic search  
-Boosts precision and cuts compute cost. Achieved >75% reduction in retrieval overhead for enterprise-scale QA.  
+A scalable Retrieval-Augmented Generation (RAG) pipeline leveraging two-stage retrieval: keyword and semantic search.  
+This approach enhances precision and reduces computational costs, achieving over 75% reduction in retrieval overhead for enterprise-scale QA.  
+▶️ [Access the Application](https://two-stage-conrag.streamlit.app/)  
 *Tech:* RAG, Sentence Transformers, Cross-Encoder Reranker, LangChain, ChromaDB, Docker, Poetry, Streamlit
 
 
