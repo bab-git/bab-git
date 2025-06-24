@@ -19,7 +19,7 @@
 - [**Two-Stage RAG for Document QA**](https://github.com/bab-git/two-stage-conrag) `🟢 Production Ready - Backend + Frontend (App)`  
 A scalable Retrieval-Augmented Generation (RAG) pipeline leveraging two-stage retrieval: keyword and semantic search.  
 This approach enhances precision and reduces computational costs, achieving over 75% reduction in retrieval overhead for enterprise-scale QA.  
-▶️ [Access the Application](https://two-stage-conrag.streamlit.app/) (cold start may take 1-2 minutes)
+▶️ [Access the Application](https://two-stage-conrag.streamlit.app/) (cold start may take 1-2 minutes)  
 *Tech:* RAG, Sentence Transformers, Cross-Encoder Reranker, LangChain, ChromaDB, Docker, Poetry, Streamlit
 
 
@@ -48,7 +48,7 @@ Includes RAG, tool-using agents, clinical trial retrieval, chatbot workflows, an
 Community project with [**SuperDataScience**](https://community.superdatascience.com/feed) to forecast building energy consumption using a synthetic [Kaggle dataset](https://www.kaggle.com/datasets/mrsimple07/energy-consumption-prediction).  
 Built a **SARIMAX pipeline** with **uncertainty-injected exogenous inputs** (random walks) and **time-series CV**.  
 App delivers **EDA**, **forecast accuracy**, and **feature relevance** visualizations.  
-▶️ [Live App](https://watt-wise-bob-app.streamlit.app) (cold start may take 1-2 minutes) 
+▶️ [Live App](https://watt-wise-bob-app.streamlit.app) (cold start may take 1-2 minutes)  
 **Tech:** Python, pandas, statsmodels, SARIMAX, Streamlit
 
 - [**Data Science & ML Mini Tasks**](https://github.com/bab-git/data-science-and-ml-mini-projects) `🔵 Development Notebooks`  
