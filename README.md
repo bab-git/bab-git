@@ -45,6 +45,13 @@ Includes RAG, tool-using agents, clinical trial retrieval, chatbot workflows, an
 
 ## 📈 Machine Learning & Data Science Projects
 
+- [**Social Sphere: Student Social-Media Analytics**](https://github.com/bab-git/SDS-social-sphere/tree/main/submissions/team-members/bob-hosseini) `🟡 Ongoing`  
+As the team lead for this [**SuperDataScience**](https://community.superdatascience.com/feed) community project, I am spearheading efforts to predict relationship conflicts and self-reported addiction levels from digital behavior, segment students into behavior-based clusters, and visualize trends in usage intensity, platform preference, and mental well-being.      
+**Data Source**: Utilizing a fresh dataset of nearly 700 students aged 16–25 from high school to graduate programs across multiple countries, collected in Q1 2025, from [Kaggle](https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships)   
+**MLflow Dashboard**: [View Experiments on Dagshub](https://dagshub.com/bab-git/SDS-social-sphere.mlflow/#/experiments/2)   
+**Tech:** Python, Scikit-Learn, XGBoost, Regression, Clustering, Data Visualization, MLflow, SHAP
+
+
 - [**Energy Forecasting with SARIMAX**](https://github.com/bab-git/SDS-CP027-watt-wise/tree/dev_bob/submissions/team/bob-hosseini) `🟢 Production Ready - Backend + Frontend`  
 Community project with [**SuperDataScience**](https://community.superdatascience.com/feed) to forecast building energy consumption using a synthetic [Kaggle dataset](https://www.kaggle.com/datasets/mrsimple07/energy-consumption-prediction).  
 Built a **SARIMAX pipeline** with **uncertainty-injected exogenous inputs** (random walks) and **time-series CV**.  
