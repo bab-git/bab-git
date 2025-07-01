@@ -20,7 +20,7 @@
 A scalable Retrieval-Augmented Generation (RAG) pipeline leveraging two-stage retrieval: keyword and semantic search.  
 This approach enhances precision and reduces computational costs, achieving over 75% reduction in retrieval overhead for enterprise-scale QA.  
 **Read More:** [Two-Stage Consecutive RAG for Document QA](https://medium.com/@bbkhosseini/two-stage-consecutive-rag-for-document-qa-enhancing-precision-and-scalability-ac2af206babd) on Medium  
-▶️ [Access the Application](https://two-stage-conrag.streamlit.app/) (cold start may take 1-2 minutes)  
+▶️ [Access the Application](https://two-stage-conrag.streamlit.app/) (if in sleep mode, click the "Wake Up" button<img src="./sleepmode.png" width="150" align="middle" /> )    
 *Tech:* RAG, Sentence Transformers, Cross-Encoder Reranker, LangChain, ChromaDB, Docker, Poetry, Streamlit
 
 
@@ -56,7 +56,7 @@ As the team lead for this [**SuperDataScience**](https://community.superdatascie
 Community project with [**SuperDataScience**](https://community.superdatascience.com/feed) to forecast building energy consumption using a synthetic [Kaggle dataset](https://www.kaggle.com/datasets/mrsimple07/energy-consumption-prediction).  
 Built a **SARIMAX pipeline** with **uncertainty-injected exogenous inputs** (random walks) and **time-series CV**.  
 App delivers **EDA**, **forecast accuracy**, and **feature relevance** visualizations.  
-▶️ [Live App](https://watt-wise-bob-app.streamlit.app) (cold start may take 1-2 minutes)  
+▶️ [Live App](https://watt-wise-bob-app.streamlit.app) (if in sleep mode, click the "Wake Up" button<img src="./sleepmode.png" width="150" align="middle" /> )    
 **Tech:** Python, pandas, statsmodels, SARIMAX, Streamlit
 
 - [**Data Science & ML Mini Tasks**](https://github.com/bab-git/data-science-and-ml-mini-projects) `🔵 Development Notebooks`  
