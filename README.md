@@ -20,7 +20,7 @@
 A scalable Retrieval-Augmented Generation (RAG) pipeline leveraging two-stage retrieval: keyword and semantic search.  
 This approach enhances precision and reduces computational costs, achieving over 75% reduction in retrieval overhead for enterprise-scale QA.  
 **Read More:** [Two-Stage Consecutive RAG for Document QA](https://medium.com/@bbkhosseini/two-stage-consecutive-rag-for-document-qa-enhancing-precision-and-scalability-ac2af206babd) on Medium  
-▶️ [Access the Application](https://two-stage-conrag.streamlit.app/) (if in sleep mode, click the "Wake Up" button <img src="./sleepmode.png" width="180" align="middle" /> )    
+▶️ [Try the Live App](https://bbkhosseini--two-stage-conrag-run.modal.run/) ( ⚠️ ~15 seconds loading time )    
 *Tech:* RAG, Sentence Transformers, Cross-Encoder Reranker, LangChain, ChromaDB, Docker, Poetry, Streamlit
 
 
