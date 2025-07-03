@@ -56,7 +56,7 @@ As the team lead for this [**SuperDataScience**](https://community.superdatascie
 Community project with [**SuperDataScience**](https://community.superdatascience.com/feed) to forecast building energy consumption using a synthetic [Kaggle dataset](https://www.kaggle.com/datasets/mrsimple07/energy-consumption-prediction).  
 Built a **SARIMAX pipeline** with **uncertainty-injected exogenous inputs** (random walks) and **time-series CV**.  
 App delivers **EDA**, **forecast accuracy**, and **feature relevance** visualizations.  
-▶️ [Live App](https://bbkhosseini--wattwise-energy-forecast-run.modal.run/) (⚠️ ~15 seconds loading time)    
+▶️ [Test the Live App](https://bbkhosseini--wattwise-energy-forecast-run.modal.run/) (⚠️ ~15 seconds loading time)    
 **Tech:** Python, pandas, statsmodels, SARIMAX, Streamlit
 
 - [**Data Science & ML Mini Tasks**](https://github.com/bab-git/data-science-and-ml-mini-projects) `🔵 Development Notebooks`  
