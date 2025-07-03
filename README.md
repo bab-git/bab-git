@@ -52,7 +52,7 @@ As the team lead for this [**SuperDataScience**](https://community.superdatascie
 **Tech:** Python, Scikit-Learn, XGBoost, Regression, Clustering, Data Visualization, MLflow, SHAP
 
 
-- [**Energy Forecasting with SARIMAX**](https://github.com/bab-git/SDS-CP027-watt-wise/tree/dev_bob/submissions/team/bob-hosseini) `🟢 Production Ready - Backend + Frontend`  
+- [**Energy Forecasting with SARIMAX**](https://github.com/bab-git/SDS-CP027-watt-wise/tree/main/submissions/team/bob-hosseini) `🟢 Production Ready - Backend + Frontend`  
 Community project with [**SuperDataScience**](https://community.superdatascience.com/feed) to forecast building energy consumption using a synthetic [Kaggle dataset](https://www.kaggle.com/datasets/mrsimple07/energy-consumption-prediction).  
 Built a **SARIMAX pipeline** with **uncertainty-injected exogenous inputs** (random walks) and **time-series CV**.  
 App delivers **EDA**, **forecast accuracy**, and **feature relevance** visualizations.  
