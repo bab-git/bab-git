@@ -3,11 +3,8 @@
 *Designing AI systems that scale and teams that ship.
 *
 
-## 💬 Let’s Connect
-
-Feel free to reach out for collaboration, professional opportunities, or just to swap ideas on building better GenAI systems.
-
-
+### 💬 Let’s Connect   
+Feel free to reach out for collaboration, professional opportunities, or just to swap ideas on building better GenAI systems.   
 📫 [Email](mailto:bbkhosseini@gmail.com) • [LinkedIn](https://www.linkedin.com/in/bhosseini)
 
 ---
@@ -71,7 +68,7 @@ Includes data analysis, compliance verification, hallucination grading, and huma
 
 ---
 
-### [**LLM Tutorials & Applications**]
+### **LLM Tutorials & Applications**
 `🔵 Development Notebooks - Educational`  
 
 A collection of practical LLM architectures and end-to-end notebooks featuring carefully selected case studies across domains like: 
@@ -89,12 +86,12 @@ Includes RAG, tool-using agents, clinical trial retrieval, chatbot workflows, an
 ## 📈 Machine Learning & Data Science Projects
 
 
-### 📊 Social Sphere: Student Behavior Analytics
+### 📊 Social Sphere: Student Behavior Analytics ([SuperDataScience community project](https://community.superdatascience.com/feed))
 `🟡 Ongoing`  
 
 **_Problem_**: Educators and psychologists seek to understand how digital behavior affects students’ mental health, relationships, and academic performance.   
 **_Data_**: Survey of ~700 students aged 16–25 across multiple countries ([Kaggle Q1 2025 dataset](https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships)). Features include screen time, platform usage, conflicts, sleep, and well-being.    
-**_Solution_**: Led an ML project to predict social-media addiction scores and relationship conflicts. Performed clustering to segment students into behavioral groups. Used SHAP to explain key influencing factors.   
+**_Solution_**: Led this [**SuperDataScience**](https://community.superdatascience.com/feed) community project to predict social-media addiction scores and relationship conflicts. Performed clustering to segment students into behavioral groups. Used SHAP to explain key influencing factors.   
 
 **_Impact_**:
 - Accurately predicted student addiction levels with 1% error
@@ -114,14 +111,29 @@ As the team lead for this [**SuperDataScience**](https://community.superdatascie
 
 ---
 
-### 🔋[**Energy Forecasting with SARIMAX**](https://github.com/bab-git/SDS-CP027-watt-wise/tree/main/submissions/team/bob-hosseini) 
+### 🔋**Energy Forecasting with SARIMAX** ([SuperDataScience community project](https://community.superdatascience.com/feed))
 `🟢 Production Ready - Backend + Frontend`  
 
+**_Problem_**: Facility managers and sustainability teams need reliable short-term energy forecasts to optimize planning and reduce costs. However, real-world energy consumption is volatile and only weakly correlated with exogenous drivers like temperature.
+
+**_Data_**: Synthetic building energy dataset ([Kaggle](https://www.kaggle.com/datasets/mrsimple07/energy-consumption-prediction)) with hourly and daily electricity usage, temperature, humidity, and occupancy variables.
+
+**_Solution_**: 
+- Built a time-series forecasting pipeline using SARIMAX, including:
+- Time-series CV, ADF tests, and outlier detection for robust preprocessing
+- Simulation of noisy exogenous inputs via random walks to mimic real-world uncertainty
+- SARIMAX trained and benchmarked against ARIMA, achieving R² ≈ 0.33 despite injected noise
+  
+▶️ [Live App](https://bbkhosseini--wattwise-energy-forecast-run.modal.run/) • [GitHub Repo](https://www.kaggle.com/datasets/mrsimple07/energy-consumption-prediction)   
+**_Tech_:** Python, pandas, statsmodels, SARIMAX, Streamlit
+
+<!--
 Community project with [**SuperDataScience**](https://community.superdatascience.com/feed) to forecast building energy consumption using a synthetic [Kaggle dataset](https://www.kaggle.com/datasets/mrsimple07/energy-consumption-prediction).  
 Built a **SARIMAX pipeline** with **uncertainty-injected exogenous inputs** (random walks) and **time-series CV**.  
 App delivers **EDA**, **forecast accuracy**, and **feature relevance** visualizations.  
 ▶️ [Test the Live App](https://bbkhosseini--wattwise-energy-forecast-run.modal.run/)     
 **Tech:** Python, pandas, statsmodels, SARIMAX, Streamlit
+-->
 
 ---
 
