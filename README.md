@@ -137,14 +137,17 @@ App delivers **EDA**, **forecast accuracy**, and **feature relevance** visualiza
 
 ---
 
-### [**Data Science & ML Mini Tasks**](https://github.com/bab-git/data-science-and-ml-mini-projects) `🔵 Development Notebooks`  
+### **Data Science & ML Mini Tasks**
+`🔵 Development Notebooks`  
+
 Single-notebook projects showcasing applied machine learning and data science, including: 
   - [Ad Response Prediction](https://github.com/bab-git/data-science-and-ml-mini-projects/blob/master/tasks/Predict_Advertisement_Response),  
   - [Material Strength Prediction](https://github.com/bab-git/data-science-and-ml-mini-projects/tree/master/tasks/Predictive_Modeling_for_Material_Strength),
   - [Recipe Recommender](https://github.com/bab-git/data-science-and-ml-mini-projects/tree/master/tasks/Recommendation_System_Food_Recipes),
   - [Customer Satisfaction Classification](https://github.com/bab-git/data-science-and-ml-mini-projects/tree/master/tasks/Customer_Satisfaction_Prediction),
   - [Hotel Staff Size Prediction](https://github.com/bab-git/data-science-and-ml-mini-projects/tree/master/tasks/Hotel_Staff_Size_Estimation_via_Regression).  
-**Tech:** Python, scikit-learn, XGBoost, Streamlit, pandas, matplotlib
+
+**_Tech_:** Python, scikit-learn, XGBoost, Streamlit, pandas, matplotlib
 
 ---
 ---
