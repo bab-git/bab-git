@@ -3,6 +3,13 @@
 *Designing AI systems that scale and teams that ship.
 *
 
+## 💬 Let’s Connect
+
+Feel free to reach out for collaboration, professional opportunities, or just to swap ideas on building better GenAI systems.
+
+
+📫 [Email](mailto:bbkhosseini@gmail.com) • [LinkedIn](https://www.linkedin.com/in/bhosseini)
+
 ---
 
 ## 🔧 What I Do
@@ -12,6 +19,7 @@
 - Mentor data teams and implement best practices for ML/AI delivery
 - Translate complex business problems into real-world AI products
 
+---
 ---
 
 ## 🧠 Generative AI Projects
@@ -76,6 +84,7 @@ Includes RAG, tool-using agents, clinical trial retrieval, chatbot workflows, an
 
 
 ---
+---
 
 ## 📈 Machine Learning & Data Science Projects
 
@@ -103,6 +112,8 @@ As the team lead for this [**SuperDataScience**](https://community.superdatascie
 **Tech:** Python, Scikit-Learn, XGBoost, Regression, Clustering, Data Visualization, MLflow, SHAP
 -->
 
+---
+
 ### 🔋[**Energy Forecasting with SARIMAX**](https://github.com/bab-git/SDS-CP027-watt-wise/tree/main/submissions/team/bob-hosseini) 
 `🟢 Production Ready - Backend + Frontend`  
 
@@ -112,7 +123,9 @@ App delivers **EDA**, **forecast accuracy**, and **feature relevance** visualiza
 ▶️ [Test the Live App](https://bbkhosseini--wattwise-energy-forecast-run.modal.run/)     
 **Tech:** Python, pandas, statsmodels, SARIMAX, Streamlit
 
-- [**Data Science & ML Mini Tasks**](https://github.com/bab-git/data-science-and-ml-mini-projects) `🔵 Development Notebooks`  
+---
+
+### [**Data Science & ML Mini Tasks**](https://github.com/bab-git/data-science-and-ml-mini-projects) `🔵 Development Notebooks`  
 Single-notebook projects showcasing applied machine learning and data science, including: 
   - [Ad Response Prediction](https://github.com/bab-git/data-science-and-ml-mini-projects/blob/master/tasks/Predict_Advertisement_Response),  
   - [Material Strength Prediction](https://github.com/bab-git/data-science-and-ml-mini-projects/tree/master/tasks/Predictive_Modeling_for_Material_Strength),
@@ -121,6 +134,7 @@ Single-notebook projects showcasing applied machine learning and data science, i
   - [Hotel Staff Size Prediction](https://github.com/bab-git/data-science-and-ml-mini-projects/tree/master/tasks/Hotel_Staff_Size_Estimation_via_Regression).  
 **Tech:** Python, scikit-learn, XGBoost, Streamlit, pandas, matplotlib
 
+---
 ---
 
 ## ✍️ Writing
@@ -136,7 +150,7 @@ Single-notebook projects showcasing applied machine learning and data science, i
 
 ## 💬 Let’s Connect
 
-Feel free to reach out for collaboration, leadership opportunities, or just to swap ideas on building better GenAI systems.
+Feel free to reach out for collaboration, professional opportunities, or just to swap ideas on building better GenAI systems.
 
 
 📫 [Email](mailto:bbkhosseini@gmail.com) • [LinkedIn](https://www.linkedin.com/in/bhosseini)
