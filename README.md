@@ -24,9 +24,12 @@ Feel free to reach out for collaboration, professional opportunities, or just to
 ### 🔁**Two-Stage RAG for Document QA** 
 `🟢 Production Ready - Backend + Frontend`   
 
-**_Problem_:** Companies using AI for document search often suffer from poor precision or high compute costs. Traditional RAG systems either retrieve irrelevant content or waste resources.   
+**_Problem_:** Companies using AI for document search often suffer from poor precision or high compute costs. Traditional RAG systems either retrieve irrelevant content or waste resources. 
+
 **_Data_:** Enterprise documents used in QA systems, requiring accurate and scalable semantic search.   
+
 **_Solution_:** Designed a two-stage retrieval pipeline combining fast keyword search with precise semantic reranking, using Sentence Transformers and Cross-Encoders. Built with LangChain, ChromaDB, and Docker.   
+
 **_Impact_:**
 - Cut retrieval overhead by 75%
 - Boosted precision and reduced latency for real-world document QA use cases
@@ -49,8 +52,11 @@ This approach enhances precision and reduces computational costs, achieving over
  `🔵 Development Notebooks` 
  
 **_Problem_**: Matching patients to clinical trials is complex, time-consuming, and prone to regulatory risks, often requiring human review of hundreds of eligibility criteria.   
+
 **_Data_**: Clinical trial criteria and patient profiles, with structured and unstructured medical data.   
+
 **_Solution_**: Built an agentic LLM workflow using LangGraph to automate trial eligibility screening, hallucination detection, and compliance checks. Integrated human-in-the-loop review and tool calling.   
+
 **_Impact_**:
 - Improved review speed and consistency
 - Reduced manual effort in preliminary trial screening
@@ -90,7 +96,9 @@ Includes RAG, tool-using agents, clinical trial retrieval, chatbot workflows, an
 `🟡 Ongoing`  
 
 **_Problem_**: Educators and psychologists seek to understand how digital behavior affects students’ mental health, relationships, and academic performance.   
+
 **_Data_**: Survey of ~700 students aged 16–25 across multiple countries ([Kaggle Q1 2025 dataset](https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships)). Features include screen time, platform usage, conflicts, sleep, and well-being.    
+
 **_Solution_**: Led this [**SuperDataScience**](https://community.superdatascience.com/feed) community project to predict social-media addiction scores and relationship conflicts. Performed clustering to segment students into behavioral groups. Used SHAP to explain key influencing factors.   
 
 **_Impact_**:
