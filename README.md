@@ -23,8 +23,8 @@ Feel free to reach out for collaboration, professional opportunities, or just to
 
 ### 📞 LLM-Based Call Summarization
 
-***Problem:*** Manual call logging was time-consuming and error-prone.
-***Solution:*** Developed a generative AI system summarizing 2,000+ calls/month using LLMs and audio transcripts.
+***Problem:*** Manual call logging was time-consuming and error-prone.   
+***Solution:*** Developed a generative AI system summarizing 2,000+ calls/month using LLMs and audio transcripts.   
 ***Impact:*** Increased productivity and customer satisfaction.
 <!--
 Impact: Increased productivity by 40% and improved customer satisfaction by 70%.
@@ -45,9 +45,9 @@ Impact: Increased productivity by 40% and improved customer satisfaction by 70%.
 
 ### 📊 Data Analytics Assistant
 
-***Problem:*** Business teams lacked real-time insights from complex data.
-***Solution:*** Built an LLM-powered dashboard enabling natural-language querying of business metrics.
-***Impact:*** Accelerated insight generation and decision-making.
+***Problem:*** Business teams lacked real-time insights from complex data.   
+***Solution:*** Built an LLM-powered dashboard enabling natural-language querying of business metrics.   
+***Impact:*** Accelerated insight generation and decision-making.   
 ***Tech:*** Streamlit, LangChain, Google cloud, LangGraph, SQL
 
 ---
@@ -64,9 +64,9 @@ Impact: Increased productivity by 40% and improved customer satisfaction by 70%.
 
 ### 🔄 Customer Churn Prediction
 
-***Problem:*** Retention teams struggled to identify at-risk customers.
-***Solution:*** Built predictive models using behavior and transaction data.
-***Impact:*** Reduced churn by 20% via proactive outreach.
+***Problem:*** Retention teams struggled to identify at-risk customers.   
+***Solution:*** Built predictive models using behavior and transaction data.   
+***Impact:*** Reduced churn by 20% via proactive outreach.   
 <!--
 ***Impact:*** Reduced churn by 20% via proactive outreach.
 -->
@@ -76,9 +76,9 @@ Impact: Increased productivity by 40% and improved customer satisfaction by 70%.
 
 ### 🛒 Product Recommendation Engine
 
-***Problem:*** Users struggled to find relevant products in a large portfolio.
-***Solution:*** Developed collaborative and content-based recommendation system for a 55K-product catalog.
-***Impact:*** Boosted sales and improved user engagement.
+***Problem:*** Users struggled to find relevant products in a large portfolio.   
+***Solution:*** Developed collaborative and content-based recommendation system for a 55K-product catalog.   
+***Impact:*** Boosted sales and improved user engagement.   
 <!--
 ***Impact:*** Boosted sales by 12% and improved user engagement.
 -->
