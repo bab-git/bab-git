@@ -48,7 +48,7 @@ Impact: Increased productivity by 40% and improved customer satisfaction by 70%.
 ***Problem:*** Business teams lacked real-time insights from complex data.
 ***Solution:*** Built an LLM-powered dashboard enabling natural-language querying of business metrics.
 ***Impact:*** Accelerated insight generation and decision-making.
-***Tech:*** Streamlit, LangChain, LangGraph, SQL
+***Tech:*** Streamlit, LangChain, Google cloud, LangGraph, SQL
 
 ---
 <!--
@@ -82,7 +82,7 @@ Impact: Increased productivity by 40% and improved customer satisfaction by 70%.
 <!--
 ***Impact:*** Boosted sales by 12% and improved user engagement.
 -->
-***Tech:*** Scikit-learn, Matrix Factorization, Pandas
+***Tech:*** FastAPI, Matrix Factorization, Pandas
 
 <!--
 
