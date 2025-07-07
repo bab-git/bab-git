@@ -19,7 +19,92 @@ Feel free to reach out for collaboration, professional opportunities, or just to
 ---
 ---
 
-## 🧠 Generative AI Projects
+## 🏢 Real-World AI Systems (Professional)
+To add the listed **Professional AI Projects** to your portfolio page in a clean, consistent format matching your current GitHub `README.md`, I suggest inserting them under a new section like this:
+
+---
+
+## 🏢 Real-World AI Systems
+
+### 📞 LLM-Based Call Summarization
+
+***Problem:*** Manual call logging was time-consuming and error-prone.
+***Solution:*** Developed a generative AI system summarizing 2,000+ calls/month using LLMs and audio transcripts.
+***Impact:*** Increased productivity and customer satisfaction.
+<!--
+Impact: Increased productivity by 40% and improved customer satisfaction by 70%.
+-->
+***Tech:*** OpenAI, LangChain, AWS Lambda, Audio Preprocessing
+
+---
+<!--
+### 📨 AI-Powered CRM Query System
+
+***Problem:*** Customer support faced delays in processing email queries.
+***Solution:*** Automated email classification and response generation with LLMs.
+***Impact:*** Reduced workload by 60% and boosted response accuracy by 40%.
+***Tech:*** LLMs, Email Parsing, FastAPI, LangChain
+
+---
+-->
+
+### 📊 Data Analytics Assistant
+
+***Problem:*** Business teams lacked real-time insights from complex data.
+***Solution:*** Built an LLM-powered dashboard enabling natural-language querying of business metrics.
+***Impact:*** Accelerated insight generation and decision-making.
+***Tech:*** Streamlit, LangChain, LangGraph, SQL
+
+---
+<!--
+### 🧠 Intelligent Knowledge Base
+
+***Problem:*** Internal knowledge was scattered across tickets and documents.
+***Solution:*** Created a RAG-based knowledge system from historical conversations and documentation.
+***Impact:*** Increased search precision and reduced onboarding time.
+***Tech:*** RAG, ChromaDB, LangChain, Document Parsing
+
+---
+-->
+
+### 🔄 Customer Churn Prediction
+
+***Problem:*** Retention teams struggled to identify at-risk customers.
+***Solution:*** Built predictive models using behavior and transaction data.
+***Impact:*** Reduced churn by 20% via proactive outreach.
+<!--
+***Impact:*** Reduced churn by 20% via proactive outreach.
+-->
+***Tech:*** XGBoost, Scikit-learn, SHAP
+
+---
+
+### 🛒 Product Recommendation Engine
+
+***Problem:*** Users struggled to find relevant products in a large portfolio.
+***Solution:*** Developed collaborative and content-based recommendation system for a 55K-product catalog.
+***Impact:*** Boosted sales and improved user engagement.
+<!--
+***Impact:*** Boosted sales by 12% and improved user engagement.
+-->
+***Tech:*** Scikit-learn, Matrix Factorization, Pandas
+
+---
+<!--
+
+### 🧾 NLP for Invoice & Product Reports
+
+***Problem:*** Reporting workflows were inefficient due to unstructured data.
+***Solution:*** Applied NLP to standardize and improve quality of invoice descriptions and product listings.
+***Impact:*** Improved reporting clarity and reduced review cycles.
+***Tech:*** NLP, SpaCy, Regex, BERT Embeddings
+-->
+
+
+---
+---
+
+## 🧠 Generative AI Projects (Personal)
 
 ### 🔁**Two-Stage RAG for Document QA** 
 `🟢 Production Ready - Backend + Frontend`   
@@ -89,7 +174,7 @@ Includes RAG, tool-using agents, clinical trial retrieval, chatbot workflows, an
 ---
 ---
 
-## 📈 Machine Learning & Data Science Projects
+## 📈 Machine Learning & Data Science Projects (Personal)
 
 
 ### 📊 Social Sphere: Student Behavior Analytics ([SuperDataScience community project](https://community.superdatascience.com/feed))
