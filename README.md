@@ -20,11 +20,6 @@ Feel free to reach out for collaboration, professional opportunities, or just to
 ---
 
 ## 🏢 Real-World AI Systems (Professional)
-To add the listed **Professional AI Projects** to your portfolio page in a clean, consistent format matching your current GitHub `README.md`, I suggest inserting them under a new section like this:
-
----
-
-## 🏢 Real-World AI Systems
 
 ### 📞 LLM-Based Call Summarization
 
@@ -89,7 +84,6 @@ Impact: Increased productivity by 40% and improved customer satisfaction by 70%.
 -->
 ***Tech:*** Scikit-learn, Matrix Factorization, Pandas
 
----
 <!--
 
 ### 🧾 NLP for Invoice & Product Reports
