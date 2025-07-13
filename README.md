@@ -211,7 +211,8 @@ As the team lead for this [**SuperDataScience**](https://community.superdatascie
 - Simulation of noisy exogenous inputs via random walks to mimic real-world uncertainty
 - SARIMAX trained and benchmarked against ARIMA, achieving R² ≈ 0.33 despite injected noise
   
-▶️ [Live App](https://bbkhosseini--wattwise-energy-forecast-run.modal.run/) • [GitHub Repo](https://www.kaggle.com/datasets/mrsimple07/energy-consumption-prediction)   
+▶️ [Live App](https://bbkhosseini--wattwise-energy-forecast-run.modal.run/) 
+🔗 [GitHub Repo](https://github.com/bab-git/SDS-CP027-watt-wise/tree/main/submissions/team/bob-hosseini)      
 **_Tech_:** Python, pandas, statsmodels, SARIMAX, Streamlit
 
 <!--
