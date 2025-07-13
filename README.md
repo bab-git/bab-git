@@ -161,7 +161,7 @@ A collection of practical LLM architectures and end-to-end notebooks featuring c
   [**customer support**](https://github.com/bab-git/llm-tutorials/blob/master/notebooks/Fundamentals/QA_chatbot.ipynb),
   [**product search**](https://github.com/bab-git/llm-tutorials/blob/master/notebooks/Retrieval_Augmented_Generation/RAG_evaluation.ipynb).  
 Includes RAG, tool-using agents, clinical trial retrieval, chatbot workflows, and document QA with real-world data sources.  
-🔗 [GitHub Repo](https://github.com/bab-git/llm-tutorials) 
+🔗 [GitHub Repo](https://github.com/bab-git/llm-tutorials)   
 **_Tech_:** OpenAI, RAG, LangChain, ChromaDB, Pinecone, Streamlit
 
 
