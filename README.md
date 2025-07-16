@@ -185,6 +185,7 @@ Includes RAG, tool-using agents, clinical trial retrieval, chatbot workflows, an
 - Flagged at-risk relationship conflicts with 99% sensitivity (Recall)
 - Revealed behavior-based student groups to inform support strategies
 
+▶️ [Live App](https://bbkhosseini--social-sphere-analytics-run.modal.run/) • 
 🔗 [GitHub Repo](https://github.com/bab-git/SDS-social-sphere/tree/main/submissions/team-members/bob-hosseini) • [Live MLflow Dashboard](https://dagshub.com/bab-git/SDS-social-sphere.mlflow/#/experiments/2)   
 **_Tech_:** Python, Scikit-Learn, XGBoost, Regression, Clustering, Data Visualization, MLflow, SHAP
 
