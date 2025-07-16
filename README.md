@@ -178,16 +178,20 @@ Includes RAG, tool-using agents, clinical trial retrieval, chatbot workflows, an
 
 **_Data_**: Survey of ~700 students aged 16–25 across multiple countries ([Kaggle Q1 2025 dataset](https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships)). Features include screen time, platform usage, conflicts, sleep, and well-being.    
 
-**_Solution_**: Led this [**SuperDataScience**](https://community.superdatascience.com/feed) community project to predict social-media addiction scores and relationship conflicts. Performed clustering to segment students into behavioral groups. Used SHAP to explain key influencing factors.   
+**_Solution_**: Led this [**SuperDataScience**](https://community.superdatascience.com/feed) community project to predict social-media addiction scores and relationship conflicts.
+Conducted comprehensive data exploration to uncover key behavioral patterns and insights. 
+<!-- Performed clustering to segment students into behavioral groups. Used SHAP to explain key influencing factors.    -->
 
 **_Impact_**:
 - Accurately predicted student addiction levels with 1% error
 - Flagged at-risk relationship conflicts with 99% sensitivity (Recall)
-- Revealed behavior-based student groups to inform support strategies
+- Revealed critical insights into student behavior, such as the impact of daily screen time and platform usage on mental health and relationships
+<!-- - Revealed behavior-based student groups to inform support strategies -->
 
 ▶️ [Live App](https://bbkhosseini--social-sphere-analytics-run.modal.run/) • 
 🔗 [GitHub Repo](https://github.com/bab-git/SDS-social-sphere/tree/main/submissions/team-members/bob-hosseini) • [Live MLflow Dashboard](https://dagshub.com/bab-git/SDS-social-sphere.mlflow/#/experiments/2)   
-**_Tech_:** Python, Scikit-Learn, XGBoost, Regression, Clustering, Data Visualization, MLflow, SHAP
+**_Tech_:** Python, Scikit-Learn, XGBoost, Regression, Data Visualization, MLflow, SHAP
+<!-- **_Tech_:** Python, Scikit-Learn, XGBoost, Regression, Clustering, Data Visualization, MLflow, SHAP -->
 
 <!-- 
 - [**Social Sphere: Student Social-Media Analytics**](https://github.com/bab-git/SDS-social-sphere/tree/main/submissions/team-members/bob-hosseini) `🟡 Ongoing`  
