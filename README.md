@@ -26,7 +26,8 @@ Feel free to reach out for collaboration, professional opportunities, or just to
 ***Problem:*** Manual call logging was time-consuming and error-prone.   
 ***Solution:*** Developed a generative AI system summarizing 2,000+ calls/month using LLMs and audio transcripts.   
 ***Impact:*** Increased productivity and customer satisfaction.   
-***Tech:*** OpenAI, LangChain, AWS Lambda, Audio Preprocessing
+**Backend Tech:** OpenAI, LangChain, AWS Lambda, AWS S3, AWS CloudWatch, AWS SAM, Audio Preprocessing, Prompt Engineering  
+**DevOps:** CLI, Bash
 <!--
 Impact: Increased productivity by 40% and improved customer satisfaction by 70%.
 -->
@@ -48,7 +49,8 @@ Impact: Increased productivity by 40% and improved customer satisfaction by 70%.
 ***Problem:*** Business teams lacked real-time insights from complex data.   
 ***Solution:*** Built an LLM-powered dashboard enabling natural-language querying of business metrics.   
 ***Impact:*** Accelerated insight generation and decision-making.    
-***Tech:*** Streamlit, LangChain, Google cloud, LangGraph, SQL
+**Backend Tech:** LangChain, Google Cloud, LangGraph, SQL  
+**Frontend Tech:** Streamlit
 
 ---
 <!--
@@ -67,7 +69,7 @@ Impact: Increased productivity by 40% and improved customer satisfaction by 70%.
 ***Problem:*** Retention teams struggled to identify at-risk customers.   
 ***Solution:*** Built predictive models using behavior and transaction data.   
 ***Impact:*** Reduced churn by 20% via proactive outreach.   
-***Tech:*** XGBoost, Scikit-learn, SHAP
+**Backend Tech:** XGBoost, Scikit-learn, SHAP
 <!--
 ***Impact:*** Reduced churn by 20% via proactive outreach.
 -->
@@ -79,7 +81,7 @@ Impact: Increased productivity by 40% and improved customer satisfaction by 70%.
 ***Problem:*** Users struggled to find relevant products in a large portfolio.   
 ***Solution:*** Developed collaborative and content-based recommendation system for a 55K-product catalog.   
 ***Impact:*** Boosted sales and improved user engagement.   
-***Tech:*** FastAPI, Matrix Factorization, Pandas
+**Backend Tech:** FastAPI, Matrix Factorization, Pandas
 <!--
 ***Impact:*** Boosted sales by 12% and improved user engagement.
 -->
@@ -115,7 +117,8 @@ Impact: Increased productivity by 40% and improved customer satisfaction by 70%.
 - Live demo deployed with a frontend for stakeholders and clients
   
 ▶️ [Live App](https://bbkhosseini--two-stage-conrag-run.modal.run/), [Medium Writeup](https://medium.com/@bbkhosseini/two-stage-consecutive-rag-for-document-qa-enhancing-precision-and-scalability-ac2af206babd), [GitHub](https://github.com/bab-git/two-stage-conrag)   
-**_Tech_**: RAG, Sentence Transformers, Cross-Encoder Reranker, LangChain, ChromaDB, Docker, Poetry, Streamlit
+**Backend Tech:** RAG, Sentence Transformers, Cross-Encoder Reranker, LangChain, ChromaDB, Docker, Poetry  
+**Frontend Tech:** Streamlit
 
 
 <!--A scalable Retrieval-Augmented Generation (RAG) pipeline leveraging two-stage retrieval: keyword and semantic search.  
@@ -142,7 +145,8 @@ This approach enhances precision and reduces computational costs, achieving over
 - Framework extensible to other regulated domains like insurance or finance
 
 🔗 [GitHub Repo](https://github.com/bab-git/llm_pharma)   
-**Tech:** LangGraph, OpenAI, Agentic, Tool-calling, Pydantic, Gradio
+**Backend Tech:** LangGraph, OpenAI, Agentic, Tool-calling, Pydantic  
+**Frontend Tech:** Gradio
 
 <!--
 ### 🧬 [**LLM Agents for Clinical Trials**](https://github.com/bab-git/llm_pharma) `🔵 Development Notebooks`  
@@ -162,7 +166,8 @@ A collection of practical LLM architectures and end-to-end notebooks featuring c
   [**product search**](https://github.com/bab-git/llm-tutorials/blob/master/notebooks/Retrieval_Augmented_Generation/RAG_evaluation.ipynb).  
 Includes RAG, tool-using agents, clinical trial retrieval, chatbot workflows, and document QA with real-world data sources.  
 🔗 [GitHub Repo](https://github.com/bab-git/llm-tutorials)   
-**_Tech_:** OpenAI, RAG, LangChain, ChromaDB, Pinecone, Streamlit
+**Backend Tech:** OpenAI, RAG, LangChain, ChromaDB, Pinecone  
+**Frontend Tech:** Streamlit
 
 
 ---
@@ -174,7 +179,7 @@ Includes RAG, tool-using agents, clinical trial retrieval, chatbot workflows, an
 ### 📊 Social Sphere: Student Behavior Analytics ([SuperDataScience community project](https://community.superdatascience.com/feed))
 `🟢 Production Ready - Backend + Frontend` 
 
-**_Problem_**: Educators and psychologists seek to understand how digital behavior affects students’ mental health, relationships, and academic performance.   
+**_Problem_**: Educators and psychologists seek to understand how digital behavior affects students' mental health, relationships, and academic performance.   
 
 **_Data_**: Survey of ~700 students aged 16–25 across multiple countries ([Kaggle Q1 2025 dataset](https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships)). Features include screen time, platform usage, conflicts, sleep, and well-being.    
 
@@ -190,7 +195,8 @@ Conducted comprehensive data exploration to uncover key behavioral patterns and 
 
 ▶️ [Live App](https://bbkhosseini--social-sphere-analytics-run.modal.run/) • 
 🔗 [GitHub Repo](https://github.com/bab-git/SDS-social-sphere/tree/main/submissions/team-members/bob-hosseini) • [Live MLflow Dashboard](https://dagshub.com/bab-git/SDS-social-sphere.mlflow/#/experiments/2)   
-**_Tech_:** Python, Scikit-Learn, XGBoost, Regression, Data Visualization, MLflow, SHAP
+**Backend Tech:** Python, Scikit-Learn, XGBoost, Regression, Data Visualization, MLflow, SHAP, Modal  
+**Frontend Tech:** Streamlit
 <!-- **_Tech_:** Python, Scikit-Learn, XGBoost, Regression, Clustering, Data Visualization, MLflow, SHAP -->
 
 <!-- 
@@ -218,7 +224,8 @@ As the team lead for this [**SuperDataScience**](https://community.superdatascie
   
 ▶️ [Live App](https://bbkhosseini--wattwise-energy-forecast-run.modal.run/) 
 🔗 [GitHub Repo](https://github.com/bab-git/SDS-CP027-watt-wise/tree/main/submissions/team/bob-hosseini)      
-**_Tech_:** Python, pandas, statsmodels, SARIMAX, Streamlit
+**Backend Tech:** Python, pandas, statsmodels, SARIMAX  
+**Frontend Tech:** Streamlit
 
 <!--
 Community project with [**SuperDataScience**](https://community.superdatascience.com/feed) to forecast building energy consumption using a synthetic [Kaggle dataset](https://www.kaggle.com/datasets/mrsimple07/energy-consumption-prediction).  
@@ -240,7 +247,8 @@ Single-notebook projects showcasing applied machine learning and data science, i
   - [Customer Satisfaction Classification](https://github.com/bab-git/data-science-and-ml-mini-projects/tree/master/tasks/Customer_Satisfaction_Prediction),
   - [Hotel Staff Size Prediction](https://github.com/bab-git/data-science-and-ml-mini-projects/tree/master/tasks/Hotel_Staff_Size_Estimation_via_Regression).  
 
-**_Tech_:** Python, scikit-learn, XGBoost, Streamlit, pandas, matplotlib
+**Backend Tech:** Python, scikit-learn, XGBoost, pandas, matplotlib  
+**Frontend Tech:** Streamlit
 
 ---
 ---
