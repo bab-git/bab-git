@@ -172,7 +172,7 @@ Includes RAG, tool-using agents, clinical trial retrieval, chatbot workflows, an
 
 
 ### 📊 Social Sphere: Student Behavior Analytics ([SuperDataScience community project](https://community.superdatascience.com/feed))
-`🟡 Ongoing`  
+`🟢 Production Ready - Backend + Frontend` 
 
 **_Problem_**: Educators and psychologists seek to understand how digital behavior affects students’ mental health, relationships, and academic performance.   
 
