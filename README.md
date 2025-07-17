@@ -26,7 +26,7 @@ Feel free to reach out for collaboration, professional opportunities, or just to
 ***Problem:*** Manual call logging was time-consuming and error-prone.   
 ***Solution:*** Developed a generative AI system summarizing 2,000+ calls/month using LLMs and audio transcripts.   
 ***Impact:*** Increased productivity and customer satisfaction.   
-**Backend Tech:** OpenAI, LangChain, AWS Lambda, AWS S3, AWS CloudWatch, AWS SAM, Audio Preprocessing, Prompt Engineering, SQL  
+**Backend Tech:** OpenAI, LangChain, AWS Lambda, AWS S3, AWS CloudWatch, AWS SAM, Audio Preprocessing, Prompt Engineering, SQL    
 **DevOps:** CLI, Bash
 <!--
 Impact: Increased productivity by 40% and improved customer satisfaction by 70%.
@@ -49,7 +49,7 @@ Impact: Increased productivity by 40% and improved customer satisfaction by 70%.
 ***Problem:*** Business teams lacked real-time insights from complex data.   
 ***Solution:*** Built an LLM-powered dashboard enabling natural-language querying of business metrics.   
 ***Impact:*** Accelerated insight generation and decision-making.    
-**Backend Tech:** LangChain, Google Cloud, LangGraph, SQL, Pandas, Prompt Eng.  
+**Backend Tech:** LangChain, Google Cloud, LangGraph, SQL, Pandas, Prompt Eng.    
 **Frontend Tech:**  Data Visualization, Streamlit
 
 ---
@@ -69,7 +69,7 @@ Impact: Increased productivity by 40% and improved customer satisfaction by 70%.
 ***Problem:*** Retention teams struggled to identify at-risk customers.   
 ***Solution:*** Built predictive models using behavior and transaction data.   
 ***Impact:*** Reduced churn by 20% via proactive outreach.   
-**Backend Tech:** XGBoost, Scikit-learn, SHAP
+**Backend Tech:** XGBoost, Scikit-learn, SHAP.   
 **Frontend Tech:**  Data Visualization, Google Cloud, MLflow
 
 <!--
@@ -83,7 +83,7 @@ Impact: Increased productivity by 40% and improved customer satisfaction by 70%.
 ***Problem:*** Users struggled to find relevant products in a large portfolio.   
 ***Solution:*** Developed collaborative and content-based recommendation system for a 55K-product catalog.   
 ***Impact:*** Boosted sales and improved user engagement.   
-**Backend Tech:** FastAPI, Matrix Factorization, Pandas, PySpark  
+**Backend Tech:** FastAPI, Matrix Factorization, Pandas, PySpark   
 **DevOps:** Docker, MLflow
 <!--
 ***Impact:*** Boosted sales by 12% and improved user engagement.
