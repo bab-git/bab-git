@@ -3,9 +3,9 @@
 *Designing AI systems that scale and teams that ship.
 *
 
-### 💬 Let’s Connect   
-Feel free to reach out for collaboration, professional opportunities, or just to swap ideas on building better GenAI systems.   
-📫 [Email](mailto:bbkhosseini@gmail.com) • [LinkedIn](https://www.linkedin.com/in/bhosseini)
+### 💬 Let’s Connect  
+Feel free to reach out for collaboration, professional opportunities, or to swap ideas on building better GenAI systems.  
+📫 [Email](mailto:bbkhosseini@gmail.com) • 🔗 [LinkedIn](https://www.linkedin.com/in/bhosseini) • 🌐 [Website](https://bob-hosseini-portfolio.web.app/)
 
 ---
 
@@ -276,7 +276,7 @@ Single-notebook projects showcasing applied machine learning and data science, i
 Feel free to reach out for collaboration, professional opportunities, or just to swap ideas on building better GenAI systems.
 
 
-📫 [Email](mailto:bbkhosseini@gmail.com) • [LinkedIn](https://www.linkedin.com/in/bhosseini)
+📫 [Email](mailto:bbkhosseini@gmail.com) • 🔗 [LinkedIn](https://www.linkedin.com/in/bhosseini) • 🌐 [Website](https://bob-hosseini-portfolio.web.app/)
 
 ---
 
