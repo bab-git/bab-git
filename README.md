@@ -119,7 +119,7 @@ Impact: Increased productivity by 40% and improved customer satisfaction by 70%.
 - Boosted precision and reduced latency for real-world document QA use cases
 - Live demo deployed with a frontend for stakeholders and clients
   
-▶️ [Live App](https://bbkhosseini--two-stage-conrag-run.modal.run/), [Medium Writeup](https://medium.com/@bbkhosseini/two-stage-consecutive-rag-for-document-qa-enhancing-precision-and-scalability-ac2af206babd), [GitHub](https://github.com/bab-git/two-stage-conrag)   
+▶️ [Live MVP](https://bbkhosseini--two-stage-conrag-run.modal.run/), [Medium Writeup](https://medium.com/@bbkhosseini/two-stage-consecutive-rag-for-document-qa-enhancing-precision-and-scalability-ac2af206babd), [GitHub](https://github.com/bab-git/two-stage-conrag)   
 **Backend Tech:** RAG, Sentence Transformers, Cross-Encoder Reranker, LangChain, ChromaDB, Poetry  
 **Frontend Tech:** Streamlit  
 **DevOps:** Docker, Modal
@@ -128,14 +128,14 @@ Impact: Increased productivity by 40% and improved customer satisfaction by 70%.
 <!--A scalable Retrieval-Augmented Generation (RAG) pipeline leveraging two-stage retrieval: keyword and semantic search.  
 This approach enhances precision and reduces computational costs, achieving over 75% reduction in retrieval overhead for enterprise-scale QA.  
 **Read More:** [Two-Stage Consecutive RAG for Document QA](https://medium.com/@bbkhosseini/two-stage-consecutive-rag-for-document-qa-enhancing-precision-and-scalability-ac2af206babd) on Medium  
-▶️ [Try the Live App](https://bbkhosseini--two-stage-conrag-run.modal.run/)     
+▶️ [Try the Live MVP](https://bbkhosseini--two-stage-conrag-run.modal.run/)     
 *Tech:* RAG, Sentence Transformers, Cross-Encoder Reranker, LangChain, ChromaDB, Docker, Poetry, Streamlit
 -->
 
 ---
 
 ### 🧬 LLM Agents for Clinical Trials
- `🔵 Development Notebooks` 
+`🟢 Production Ready - Backend + Frontend` 
  
 **_Problem_**: Matching patients to clinical trials is complex, time-consuming, and prone to regulatory risks, often requiring human review of hundreds of eligibility criteria.   
 
@@ -148,7 +148,7 @@ This approach enhances precision and reduces computational costs, achieving over
 - Reduced manual effort in preliminary trial screening
 - Framework extensible to other regulated domains like insurance or finance
 
-🔗 [GitHub Repo](https://github.com/bab-git/llm_pharma)   
+▶️ [Live MVP](https://bbkhosseini--llm-pharma-agent-ui.modal.run/) • 🔗 [GitHub Repo](https://github.com/bab-git/llm_pharma)   
 **Backend Tech:** LangGraph, OpenAI, Agentic, Tool-calling, Pydantic  
 **Frontend Tech:** Gradio
 
@@ -197,7 +197,7 @@ Conducted comprehensive data exploration to uncover key behavioral patterns and 
 - Revealed critical insights into student behavior, such as the impact of daily screen time and platform usage on mental health and relationships
 <!-- - Revealed behavior-based student groups to inform support strategies -->
 
-▶️ [Live App](https://bbkhosseini--social-sphere-analytics-run.modal.run/) • 
+▶️ [Live MVP](https://bbkhosseini--social-sphere-analytics-run.modal.run/) • 
 🔗 [GitHub Repo](https://github.com/bab-git/SDS-social-sphere/tree/main/submissions/team-members/bob-hosseini) • [Live MLflow Dashboard](https://dagshub.com/bab-git/SDS-social-sphere.mlflow/#/experiments/2)   
 **Backend Tech:** Python, Scikit-Learn, XGBoost, Regression, Data Visualization, MLflow, SHAP  
 **Frontend Tech:** Streamlit  
@@ -228,7 +228,7 @@ As the team lead for this [**SuperDataScience**](https://community.superdatascie
 - Simulation of noisy exogenous inputs via random walks to mimic real-world uncertainty
 - SARIMAX trained and benchmarked against ARIMA, achieving R² ≈ 0.33 despite injected noise
   
-▶️ [Live App](https://bbkhosseini--wattwise-energy-forecast-run.modal.run/) 
+▶️ [Live MVP](https://bbkhosseini--wattwise-energy-forecast-run.modal.run/) 
 🔗 [GitHub Repo](https://github.com/bab-git/SDS-CP027-watt-wise/tree/main/submissions/team/bob-hosseini)      
 **Backend Tech:** Python, pandas, statsmodels, SARIMAX  
 **Frontend Tech:** Streamlit  
@@ -238,7 +238,7 @@ As the team lead for this [**SuperDataScience**](https://community.superdatascie
 Community project with [**SuperDataScience**](https://community.superdatascience.com/feed) to forecast building energy consumption using a synthetic [Kaggle dataset](https://www.kaggle.com/datasets/mrsimple07/energy-consumption-prediction).  
 Built a **SARIMAX pipeline** with **uncertainty-injected exogenous inputs** (random walks) and **time-series CV**.  
 App delivers **EDA**, **forecast accuracy**, and **feature relevance** visualizations.  
-▶️ [Test the Live App](https://bbkhosseini--wattwise-energy-forecast-run.modal.run/)     
+▶️ [Test the Live MVP](https://bbkhosseini--wattwise-energy-forecast-run.modal.run/)     
 **Tech:** Python, pandas, statsmodels, SARIMAX, Streamlit
 -->
 
